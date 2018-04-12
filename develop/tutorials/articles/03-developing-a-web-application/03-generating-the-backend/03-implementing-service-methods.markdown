@@ -102,7 +102,7 @@ Follow these steps to implement services for guestbooks in
 
     - `java.util.Date`
     - `com.liferay.portal.kernel.service.ServiceContext`
-    - `com.liferay.docs.guestbook.model.Entry`
+    - `com.liferay.docs.guestbook.model.Guestbook`
     - `com.liferay.portal.kernel.util.Validator`
 
 Now you're ready to implement services for entries in `EntryLocalServiceImpl`. 
